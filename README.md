@@ -1,2 +1,2 @@
 # animath_joshg
-Javascript web app to generate math animations
+Javascript Web App to generate math animations
