@@ -6,7 +6,7 @@ canvas.height   = 400;
 
 ctx.fillRect( 0, 0, canvas.width, canvas.height );
 
-document.body.appendChild(canvas);
+document.getElementById("app").appendChild(canvas);
 
 class GmObject
 {
